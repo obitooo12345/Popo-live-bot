@@ -19,8 +19,7 @@ Built for Termux or any Linux environment with Firefox and geckodriver.
 
 ### 1️⃣ Clone this repo
 ```bash
-https://github.com/obitooo12345/Popo-live-bot.git
-
+git clone https://github.com/YourUsername/popo-live-auto-streamer.git
 cd popo-live-auto-streamer
 
 2️⃣ Install dependencies
@@ -56,12 +55,16 @@ Create an accounts.json file:
   }
 ]
 
-❗ Never commit this file.
-There is a .gitignore file already preventing that.
+> ⚠️ Never commit this file.
+A .gitignore file is already included.
+
+
 
 
 ---
 
 4️⃣ Run the bot
 
-Start the bot:
+Start the bot with:
+
+python auto_stream.py

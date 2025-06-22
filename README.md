@@ -19,7 +19,7 @@ Built for Termux or any Linux environment with Firefox and geckodriver.
 
 ### 1️⃣ Clone this repo
 ```bash
-git clone https://github.com/obitooo12345/Popo-live-bot.git
+clone https://github.com/obitooo12345/Popo-live-bot.git 
 cd popo-live-auto-streamer
 
 2️⃣ Install dependencies
